@@ -1,2 +1,2 @@
 # InterregumDice
-In which we roll the dice for a space opera.
+In which we roll the six sided dice for a space opera. Runs in console.
